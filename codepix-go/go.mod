@@ -6,8 +6,10 @@ require (
 	github.com/PuerkitoBio/goquery v1.6.1 // indirect
 	github.com/andybalholm/cascadia v1.2.0 // indirect
 	github.com/asaskevich/govalidator v0.0.0-20200907205600-7a23bdc65eef
+	github.com/confluentinc/confluent-kafka-go v1.5.2
 	github.com/creack/pty v1.1.11 // indirect
 	github.com/denisenkom/go-mssqldb v0.9.0 // indirect
+	github.com/go-playground/validator/v10 v10.4.1
 	github.com/golang/protobuf v1.4.3
 	github.com/jinzhu/gorm v1.9.16
 	github.com/joho/godotenv v1.3.0
